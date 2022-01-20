@@ -636,6 +636,12 @@ input[name="v"] {
   .meet {
     margin: unset;
   }
+  .portrait {
+    display: unset;
+    margin-left: -50%;
+    margin-top: 15%;
+    width: 100%;
+  }
   .portfolio img {
     float: right;
     max-width: 500px;
